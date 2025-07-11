@@ -1,0 +1,7 @@
+tk
+pillow
+numpy
+opencv-python
+matplotlib
+ttkbootstrap
+darkdetect
